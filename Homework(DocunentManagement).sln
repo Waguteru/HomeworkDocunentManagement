@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework(DocunentManagement)", "Homework(DocunentManagement)\Homework(DocunentManagement).csproj", "{77EF9596-7837-40F8-9DBA-811C0DFEB482}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77EF9596-7837-40F8-9DBA-811C0DFEB482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77EF9596-7837-40F8-9DBA-811C0DFEB482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77EF9596-7837-40F8-9DBA-811C0DFEB482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77EF9596-7837-40F8-9DBA-811C0DFEB482}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A0B870A-76E5-4DD8-8707-9DA5B6328B8C}
+	EndGlobalSection
+EndGlobal
